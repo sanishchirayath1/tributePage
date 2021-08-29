@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-size: 18px;
+}
+h1 {
+  font-size: 40px;
+}
+img {
+  width: 100%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding-bottom: 20px;
+}
+li {
+    padding-bottom: 10px;
+}
+
+.container {
+  background: rgb(236, 235, 235);
+  margin-top: 25px;
+  border-radius: 10px;
+}
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.timeline {
+  text-align: left;
+}
+.image {
+  background: white;
+  margin: 25px;
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
